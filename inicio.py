@@ -7,12 +7,16 @@ st.set_page_config(
 
 
 def main():
-    st.title("Aplicación Multipágina: Mecánica de Medios Continuos")
-    st.header("Introducción a la Mecánica de Medios Continuos")
+    st.title("Bienvenido a la Aplicación de Mecánica de Medios Continuos")
+    st.header("Introducción")
     st.write("""
-        La mecánica de medios continuos es una rama de la física que estudia el comportamiento de los materiales sólidos y fluidos 
-        bajo la acción de fuerzas externas e internas. A continuación, se exploran tres estructuras fundamentales: 
-        **Vigas (Beam)**, **Cerchas (Truss)** y **Cables**.
+       La mecánica de medios continuos es una rama de la física y la ingeniería que estudia el comportamiento de materiales sólidos y fluidos cuando están sujetos a fuerzas externas o internas. Este campo es esencial para entender cómo los cuerpos deformables responden a las cargas aplicadas, y tiene aplicaciones en diseño estructural, análisis de materiales y más.
+
+En esta aplicación, exploraremos tres conceptos clave de la mecánica de medios continuos mediante ejemplos prácticos:
+
+Beam (Viga): Analizamos cómo las vigas soportan cargas, calculamos reacciones y diagramas de esfuerzo cortante y momento flector.
+Truss (Cercha): Estudiamos estructuras formadas por barras conectadas, con énfasis en las fuerzas internas de sus elementos.
+Cable: Examinamos el comportamiento de los cables sometidos a cargas distribuidas o puntuales.
     """)
 
     st.sidebar.title("Tabla de Contenidos")
