@@ -27,12 +27,12 @@ Cable: Examinamos el comportamiento de los cables sometidos a cargas distribuida
 
 if __name__ == "__main__":
     main()
-
     st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://image.slidesdocs.com/responsive-images/background/abstract-scene-with-geometric-elements-in-blue-cyberpunk-style-for-advertising-3d-render-powerpoint-background_9380a653f1__960_540.jpg
+        background-image: url("https://media.istockphoto.com/id/1321202914/es/foto/antecedentes-del-premio-abstract-gold.jpg?s=612x612&w=0&k=20&c=2XcHNi_x4wm8715nI13vvNagsvEjj1Un47yUmdCdc-E=");
+        background-size: cover;
     }
     </style>
     """,
