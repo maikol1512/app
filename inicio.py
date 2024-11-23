@@ -32,7 +32,7 @@ if __name__ == "__main__":
     """
     <style>
     .stApp {
-        background-image: url("https://www.google.com/imgres?q=fondos%20llamativos&imgurl=https%3A%2F%2Fimage.slidesdocs.com%2Fresponsive-images%2Fbackground%2Fabstract-scene-with-geometric-elements-in-blue-cyberpunk-style-for-advertising-3d-render-powerpoint-background_9380a653f1__960_540.jpg&imgrefurl=https%3A%2F%2Fslidesdocs.com%2Fes%2Ffondo%2Fescena-abstracta-con-elementos-geometricos-en-estilo-cyberpunk-azul-para-publicidad-3d-render-fondo-power-point_46da1ec4bb&docid=M4c3SepnxqMpCM&tbnid=EYxQNJCzMr_itM&vet=12ahUKEwiJnuGEovOJAxVnRjABHVclA1kQM3oECBcQAA..i&w=960&h=540&hcb=2&ved=2ahUKEwiJnuGEovOJAxVnRjABHVclA1kQM3oECBcQAA
+        background-image: url("https://image.slidesdocs.com/responsive-images/background/abstract-scene-with-geometric-elements-in-blue-cyberpunk-style-for-advertising-3d-render-powerpoint-background_9380a653f1__960_540.jpg
     }
     </style>
     """,
